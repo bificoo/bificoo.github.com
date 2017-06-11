@@ -536,6 +536,10 @@ a {
     padding: 20px;
   }
 }
+.article-inner img[data-sizes="auto"] {
+  display: block;
+  width: 100%;
+}
 .article-inner .img-wrapper {
   display: block;
 }
